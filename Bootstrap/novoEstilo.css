@@ -1,0 +1,12 @@
+:root{
+    --primary: #912020;
+    --success: #4944b69e;
+}
+
+.text-primary{
+    color: var(--primary) !important;
+}
+
+.bg-success{
+    color: var(--sucess) !important;
+}
